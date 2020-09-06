@@ -18,5 +18,5 @@ to install figlet, go to your terminal and type the following commands
 USAGE:
 how to use B45h-5cR4p3r
 
-![](bash-scraper usage)
+![](bash-scraper%20usage.png)
 
