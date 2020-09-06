@@ -16,5 +16,7 @@ to install figlet, go to your terminal and type the following commands
 # apt-get install figlet
 
 USAGE:
+how to use B45h-5cR4p3r
+
 ![](bash-scraper usage)
 
